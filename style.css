@@ -563,6 +563,10 @@ body {
     column-gap: 4rem;
   }
 
+  .play-btn {
+    left: 42%;
+  }
+
   .footer-nav {
     flex-direction: column;
     gap: 3rem;
